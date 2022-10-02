@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tarun-m-b74b91121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-m-b74b91121" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarun-m-b74b91121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-m-dev" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tarun__m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarun__m" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tarun__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tarun__m" height="30" width="40" /></a>
 </p>
